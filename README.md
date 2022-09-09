@@ -1,7 +1,9 @@
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanha-hwang)](https://hits.seeyoufarm.com) 
+  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanha-hwang%2Fhit-counter)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanha-hwang&show-icon)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanha-hwang&show-icon)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :open_hands: I'm Sanha Hwang
 ### Machine Learning Engineer
